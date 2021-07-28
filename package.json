@@ -9,11 +9,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "ian-kevinliao",
+  "author": "ian-kevin126",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ian-kevin126"
+    "url": "git+https://github.com/ian-kevin126/ES-Demos.git"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
